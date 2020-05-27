@@ -1,1 +1,1 @@
-# caip-demo
+# Cloud AI Notebooks demo
